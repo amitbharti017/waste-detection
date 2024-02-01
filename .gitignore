@@ -129,7 +129,7 @@ env.bak/
 venv.bak/
 waste_env/
 waste_detection_dataset/
-
+log/
 
 # Spyder project settings
 .spyderproject
